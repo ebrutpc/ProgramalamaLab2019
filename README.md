@@ -1,1 +1,0 @@
-programalama Lab
