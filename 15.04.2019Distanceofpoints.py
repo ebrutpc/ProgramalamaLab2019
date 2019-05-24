@@ -20,7 +20,7 @@ print(array_1)
 point_1=[[2,5],[1232,2235],[123,253],[12,2325],[123,25],[22,5],[2,45],[72,5],[2,5]]
 
 from matplotlib import pyplot as plt  #pythonda bilimsel hesaplamada önemli bi araçtır
-                                       #Garfik cizimi icin kullanilir
+                                       #Grafik cizimi icin kullanilir
 
 for i in range (len(point_1)):
     plt.plot(point_1[i][0],point_1[i][0],'*')
